@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035181280187",
+    "project_id": "awb247-e05ef",
+    "storage_bucket": "awb247-e05ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035181280187:android:709601b6ef0a6016c7d29e",
+        "android_client_info": {
+          "package_name": "com.allwork.awb247"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035181280187-tde2nesds589ruiuscchv15mb5rb5gup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjywSxeTBeR2KrJEDBHbFEUq1dm3m2iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035181280187-tde2nesds589ruiuscchv15mb5rb5gup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

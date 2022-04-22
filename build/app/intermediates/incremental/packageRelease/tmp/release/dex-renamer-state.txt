@@ -1,0 +1,4 @@
+#Thu Jan 13 12:42:10 CET 2022
+base.0=C\:\\Users\\Dell Vostro 14 3000\\Downloads\\awb247 (1)\\awb247\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
